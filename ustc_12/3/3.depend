@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1616214223 source:d:\work\bookbank\ustc_12\3\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stack>
+
